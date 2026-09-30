@@ -71,7 +71,3 @@ app.get("/contact", (req, res) => res.send(`<div class="contact_us_2">
     </div>
   </div>
 </div>`));
-
-app.listen(PORT, () => {
-	console.log("server is running on port number: "+PORT);
-})
