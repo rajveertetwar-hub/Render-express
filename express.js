@@ -1,5 +1,4 @@
 import express from "express";
-import { PORT } from "./env.js";
 
 //console.log(process);
 
